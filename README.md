@@ -11,26 +11,46 @@ HERE ARE THE TECHNOLOGIES THAT I USED
 
 
 
-IMPLEMENTATION INSTRUCTIONS
+# IMPLEMENTATION INSTRUCTIONS
+
 	DOWNLOAD ZIP FILES FROM THIS GITUHUB REPOSITORY
-	MAKE SURE YOU HAVE THE FOLLOWING SOFTWARE INSTALLED IN YOUR SYSTEM
+
+# 	MAKE SURE YOU HAVE THE FOLLOWING SOFTWARE INSTALLED IN YOUR SYSTEM
+
 A.	PIP
+
 B.	MySQL
+
 	RUN THE FOLLOWING COMMAND ON YOUR CMD 
+
 A.	Pip install pillow
+
 B.	Pip install twillio
+
 C.	Pip install pymysql
+
 D.	Pip install opencv-python
+
 E.	Pip install opencv-contrib-python
+
 	INSTALL ALL THE MISSING LIBRARY USING PIP , IF THERE ARE ANY
+
 	NOW, OPEN MYSQL AND TYPE THE FOLLOWING COMMANDS
+
 A.	Create database criminaldb
+
 B.	Create table
+
 C.	To view what you created, type the command <Select * from criminaldata ;>
+
 D.	In dbhandler.py file complete retrieved data and put data function pymysql.connect() function by filling in the required details of your sql 
+
 E.	Then enter details of your twilio account after setting it up in sms.py file
+
 F.	All your detected images will be shown in the face_samples folder
+
 Now, you are all ready to start this application 
+
 Finally,   Run home.py file and take advantage of awesome features of my criminal detection application	 
 
 
