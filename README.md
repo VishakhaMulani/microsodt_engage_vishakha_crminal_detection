@@ -1,12 +1,12 @@
 # microsoft_engage_vishakha_criminal_detection
 
-Please go through the one page Problem statement. 
+#Please go through the one page Problem statement. 
 ![image](https://user-images.githubusercontent.com/87185933/171025323-922686df-365c-4fbe-b6f6-b4d68454b855.png)
 
-DATA FLOW DIAGRAM
+# DATA FLOW DIAGRAM
 ![image](https://user-images.githubusercontent.com/87185933/171034766-d7ab302f-3b5f-4290-9408-02f8238a2266.png)
 
-HERE ARE THE TECHNOLOGIES THAT I USED
+# HERE ARE THE TECHNOLOGIES THAT I USED
 ![TECH STACH USED](https://user-images.githubusercontent.com/87185933/171044628-3fe08be1-e8a5-4058-98dd-4788b29874f7.png)
 
 
@@ -15,7 +15,7 @@ HERE ARE THE TECHNOLOGIES THAT I USED
 
 	DOWNLOAD ZIP FILES FROM THIS GITUHUB REPOSITORY
 
-# 	MAKE SURE YOU HAVE THE FOLLOWING SOFTWARE INSTALLED IN YOUR SYSTEM
+	MAKE SURE YOU HAVE THE FOLLOWING SOFTWARE INSTALLED IN YOUR SYSTEM
 
 A.	PIP
 
